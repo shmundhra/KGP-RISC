@@ -1,0 +1,39 @@
+
+# PlanAhead Generated IO constraints 
+
+NET "rout[15]" IOSTANDARD = LVCMOS33;
+NET "rout[14]" IOSTANDARD = LVCMOS33;
+NET "rout[13]" IOSTANDARD = LVCMOS33;
+NET "rout[12]" IOSTANDARD = LVCMOS33;
+NET "rout[11]" IOSTANDARD = LVCMOS33;
+NET "rout[10]" IOSTANDARD = LVCMOS33;
+NET "rout[9]" IOSTANDARD = LVCMOS33;
+NET "rout[8]" IOSTANDARD = LVCMOS33;
+NET "rout[7]" IOSTANDARD = LVCMOS33;
+NET "rout[6]" IOSTANDARD = LVCMOS33;
+NET "rout[5]" IOSTANDARD = LVCMOS33;
+NET "rout[4]" IOSTANDARD = LVCMOS33;
+NET "rout[3]" IOSTANDARD = LVCMOS33;
+NET "rout[2]" IOSTANDARD = LVCMOS33;
+NET "rout[1]" IOSTANDARD = LVCMOS33;
+NET "rout[0]" IOSTANDARD = LVCMOS33;
+
+# PlanAhead Generated physical constraints 
+
+NET "rout[15]" LOC = H17;
+NET "rout[14]" LOC = K15;
+NET "rout[13]" LOC = J13;
+NET "rout[12]" LOC = N14;
+NET "rout[11]" LOC = R18;
+NET "rout[10]" LOC = U17;
+NET "rout[9]" LOC = V17;
+NET "rout[8]" LOC = U16;
+NET "rout[7]" LOC = V16;
+NET "rout[6]" LOC = T15;
+NET "rout[5]" LOC = U14;
+NET "rout[4]" LOC = T16;
+NET "rout[3]" LOC = V15;
+NET "rout[2]" LOC = V14;
+NET "rout[1]" LOC = V12;
+NET "rout[0]" LOC = V11;
+NET "reset" LOC = P17;
